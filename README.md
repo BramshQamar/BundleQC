@@ -1,4 +1,3 @@
-# BundleQC
 
 ## BundleQC, visualizing white matter tracts at once for quality control
 
